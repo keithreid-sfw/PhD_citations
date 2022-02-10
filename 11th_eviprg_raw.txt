@@ -1,0 +1,529 @@
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Chapter 1 – Keynote speeches and special presentations. . . . . . . 31
+Violence risk assessment and management: What we know, and what
+we still need to focus on . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Prof. Kevin S. Douglas (Canada)
+Mental disorder and violent crime: Legal concepts, distinctions and problems . . 34
+Prof. Linda Gröning (Norway)
+Towards a charter for collaboration between users and professionals . . . . . . . . . . . . 35
+Dr. Wilma Boevink (Netherlands)
+Predicting aggression of patients and burnout symptoms in nursing
+staff with the use of biosensors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Dr. Peter de Looff (Netherlands), Dr. Liza Cornet, Dr. Matthijs L. Noordzij, Dr. Mirjam
+Moerbeek, Prof. Dr. Robert Didden, Prof. Dr. Petri Embregts, Prof. Dr. Henk Nijman
+Evidence based violence risk management – What, how and why not ? . . . . . . . . . 44
+Prof. Stål Bjørkly (Norway)
+Oslo University Hospital and Molde University College.
+Legal insanity and free will . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Prof. Gerben Meynen (Netherlands)
+The terror of July 22th of 2011: What can we learn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Dr. Pål Grøndahl (Norway)
+The Restraint Reduction Network : Mandatory standards for training
+in using restraint, focusing on reduction, prevention, and safe management. . . 57
+Presenters: Sarah Leitch (UK) & Kevin McKenna (Ireland)
+Chapter 2 – Epidemiology and nature of inpatient
+violence against staff. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Aggression on the psychiatric ward: prevalence and causes. A
+systematic review of the literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Irene Weltens (Netherlands), Maarten Bak, Patrick Domen, Therese van Amelsvoort,
+Marjan Drukker - Department of Psychiatry & Neuropsychology, Maastricht University,
+and Mondriaan Maastricht. Netherlands
+15
+Predictors of (repeated) physical violence in a forensic psychiatric hospital . . . . . 67
+Nienke Verstegen, Vivienne de Vogel, Robert Didden & Henk Nijman (Netherlands)
+Workplace aggression against student nurses. How prepared are they? . . . . . . . . . 69
+Wim Janssen & Chantal Emerenciana (Netherlands)
+Demographics that correlate to high rates of aggression, absconding,
+deliberate self & sexual harm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Gamze Sonmez (Australia)
+The prevalence and consequences of workplace aggression on
+employees in elderly care settings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+Ellen Delvaux, Emma Boonen, Lode Godderis
+Leave End Associated Violence Evaluation (LEAVE): staff returning from
+annual leave don’t experience more violence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Stuart Thomson, Helena Austin & Keith Reid (UK)
+Measuring Both Sides of Aggression: Aggressive Event & Worker
+Exposure Characteristics in Inpatient Psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Joanne Iennaco (USA)
+Sleep at night and association to aggressive behaviour; Patients in a
+Psychiatric Intensive Care Unit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+Knut Langsrud, Håvard Kallestad, Arne Vaaler, Roger Almvik, Tom Palmstierna &
+Gunnar Morken (Norway)
+Establishing a uniform measure of aggression and violence in
+emergency departments throughout New Hampshire USA . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+Lisa Mistler (USA)
+Exploring the time trend of first aggressive episodes in pediatric
+psychiatric inpatient units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+Ping-I Lin & Drew Barzman (Sweden)
+Workplace violence against healthcare workers in different levels of
+hospitals in China . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 99
+Yusheng Tian, Jiansong Zhou & Yamin Li (China)
+Determination and characterization of violent episodes in a psychiatric
+unit in India: Insights and perspectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
+Virtu Chongtham, Nitasha Sharma & Bir Singh Chavan (India)
+16
+Chapter 3 – Epidemiology and nature of violence
+against patients / patients as victims. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+“The dark side of care”- Inadequate care, abuse and neglect in
+Norwegian mental health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .103
+Tonje Lossius Husum, Per Nortvedt, Reidar Pedersen & Olaf Aasland (Norway)
+Chapter 4 – Trauma informed care & practice. . . . . . . . . . . . . . . . . . . . . . . . . 105
+Implementing a trauma informed care approach in psychiatric wards
+– a pilot project in psychiatry South Denmark . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+Gitte Nørreskov Vase, Anne Katrine Gjerløv, Mathilda Randris Andersen, Lene Høeg &
+Anne L Eisenhardt (Denmark)
+Implementation of the German Guideline on Prevention of Coercion
+and Therapy of Aggressive Behaviour: Pilot Study and Consecutive
+multi-centre RCT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .107
+Tilman Steinert (Germany)
+Reducing incidents of violence in clinical settings through Collaborative
+Care Planning and Comfort Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+Monica McAlduff, Jane Sun & Janice Fyfe (Canada)
+Enhancing CAMH’s Safety Program with Safewards: Creating Safer
+Spaces for Work and Recovery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .112
+Stephanie Carter, Emily Johnstone & Stephen Canning (Canada)
+(Authors: Aileen Sprott, Emily Johnstone, Julia Duzdevic, Stephanie Carter, Stephen
+Canning)
+Chapter 5 – Assessment of risk, prevention &
+protective factors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Violent Behavior and aggression in Schizophrenia: prevalence and
+risk factors. A multicentric study from three Latin-America countries . . . . . . . . . . . . . .120
+Alejandra Caqueo-Urízar, Guillaume Fond, Alfonso Urzúa, Laurent Boyer & David
+Williams (Chile)
+17
+TAPIR Timeline Analysis of Patient Incident Relationships - Using
+patient to patient correlation as a short term dynamic risk factor - -
+Non-independence of patient self-harm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .122
+John Moore & Keith Reid (UK)
+Measuring the violence prevention climate: the VPC-14 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .128
+Nutmeg Hallett (UK)
+Short-term risk assessment in acute psychiatry: a step towards an
+extended model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .130
+Øyvind Lockertsen, Sverre Varvin, Ann Faerden, Bjørn Magne Sundsbø Eriksen, John
+Olav Roaldset, Nicholas G Procter & Solveig Karin Bø Vatnar (Norway)
+Root Cause Analysis: plenty roots = plenty ideas – a mindful view with
+the NOW-Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .132
+Gernot Walter, Johannes Nau & Nico Oud (Germany)
+Root Cause Analysis: plenty roots = plenty ideas – a mindful view with
+the NOW-Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .136
+Nico Oud, Johannes Nau & Gernot Walter (Netherlands)
+An ethnomethodological exploration of police officers’ use of a
+cognitive aid when encountering mental disorder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .138
+Ivan McGlen (UK)
+National data on coercive measures – Dutch and Flemish experiences
+within European General Data Protection Regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .140
+Peter Cosemans, Eric Noorthoorn, Paul Doedens & Bart Thomas (Belgium)
+EuroSTART: Variations in strengths and risk factors assessments among
+forensic patients in four European countries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .142
+Richard Whittington, Charlotte Pollak, Alice Keski-Valkama, Andrew Brown, Jesper Bak
+& Jacob Hvidhjelm (Norway)
+Outpatient coercion in psychiatry: evidence and feasibility. An
+narrative review of community treatment orders, psychiatric advance
+directives and joint crisis plans as ways to contain danger . . . . . . . . . . . . . . . . . . . . . . . . . 143
+Eric Noorthoorn, Stephan Gemsa, Henk Nijman, Peter Lepping, Martine Fledderus,
+Hein de Haan & Giel Hutschemaekers (Netherlands)
+Pathways of seclusion reduction programs to sustainability: ten years
+follow up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .145
+Eric Noorthoorn, Patricia Mann-Poll, Annet Smit & Giel Hutschemaekers (Netherlands)
+18
+Assessing and preventing violence with the Brøset Violence Checklist©
+in an adult psychiatric ward . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .147
+Jane Portier, Serge Boulguy, Marie Chieze, Julia Reverdin, Adriano Zanello & Othman
+Sentissi (Switzerland)
+Prediction and prevention of aggressive incidents during outpatient
+crisis contacts in the ambulant mental health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .149
+Berry Penterman (Netherlands)
+Deceit, Deception, Distortion, and Dissimulation-Looking beyond the Obvious 151
+Dr. Julian Gojer MBBS DPM MRCPsych FRCPsych FRCPC JD, Dr. Monik Kalia PhD
+(C. Psych), Ms. Iva Giljanovic BSc, Mr. Sanjeevan Athavan BSc, Ms. Caroline Kerjikian
+BA, Ms. Jane Koh BA, Ms. Julie Magritte (Canada)
+Aggression as a function of Intermittent Explosive Disorder, Alcohol
+Use Disorder and childhood abuse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+Michael McCloskey & Alexander Puhalla (USA)
+Combining an aggression and violence risk assessment with a
+structured tiered care pathway . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .157
+Amir Niazi, Eugene Meehan & Kevin McKenna (Ireland)
+Student Nurses’ Aggression and Violence Experiences during Mental
+Health and Psychiatric Nursing Clinical Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .159
+Hulya Bilgin, Emre Çiydem, Kubra Arslanturk & Sevil Yilmaz (Turkey)
+Comparing settings: a survey of nurse managers exploring
+organizational safety culture against aggression in psychiatric and
+general hospitals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .161
+Birgit Heckemann, Sabine Hahn, Joy Duxbury, Sanaz Riahi, Bridget Hamilton & Joanne
+DeSanto Iennaco (Switzerland)
+Risk assessment instrument: Construct validity of the Mechanical
+Restraint - Confounders, Risk, Alliance Score (MR-CRAS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . .163
+Lea Deichmann Nielsen, Per Bech, Lise Hounsgaard & Frederik Alkier Gildberg
+(Denmark)
+Conflict Tolerance: - Forensic mental health staff perception of
+inpatient conflicts with staff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .165
+Frederik Gildberg, John Baker & Frans Fluttert (Denmark)
+Factors influencing decisions of mental health professionals to release
+service users from seclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .167
+Haley Jackson (UK)
+19
+Implementation and use of advanced statements and calm down
+methods in Psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .169
+Gitte Laugesen, Camilla Petersen & Lene Lauge Berring (Denmark)
+A biopsychosocial approach to violence risk assessment in acute psychiatry . 171
+Bjørn Magne S. Eriksen (Norway)
+Suicide Risk Screening and Assessment in a Pediatric Healthcare
+Setting to Reduce the Incidence of Childhood Self-directed Violence . . . . . . . . . . . . .173
+Reginald E. Bannerman, Clarissa Chan Salcedo, Brenda McNeely, Finza Latif, Colby
+Tyson, Saundra Woody, Theresa Wavra, Ram Oula & Adelaide Robb (USA)
+The clinical utility of evidence based risk evaluation combined with deescalation
+interventions in emergency psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .175
+Roland van de Sande (Netherlands)
+Chapter 6 – Humane safe & caring approaches in and
+reduction of restrictive practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 177
+Decreasing Duration of Mechanical Restraint by Increasing Frequency
+of Registered Nurse Assessments and Surveillance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .177
+Diane Allen (USA)
+A trauma-informed approach to de-escalation: working with patients
+to create safe environments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .179
+Lene Lauge Berring, Nutmeg Hallett & Owen Price (Denmark)
+Treatment results of voluntary, involuntary and involuntary coercion
+admissions in an acute urban psychiatric clinic in the Netherlands . . . . . . . . . . . . . . .181
+Udo Nabitz, Hans Nusselder, Jack Dekker & Jaap Peen (Netherlands)
+NTW successful Restraint Reduction: total case series from large
+hospital trust . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .183
+Keith Reid, Paul Sams, Craig Newby, Kelly Hudspith, Rod Bowles, Gail Kay & Ron
+Weddle (UK)
+NTW’s “Positive Practice Process” (PPP) flowchart poster guides
+restraint prevention, planning, co-production and learning . . . . . . . . . . . . . . . . . . . . . . . . .185
+Keith Reid, Daniel Rippon, Paul Sams, Gail Kay & Ron Weddle (UK)
+Understanding Key Components of Interventions to Reduce Restrictive
+Practices: Findings from the COMPARE Evidence Synthesis . . . . . . . . . . . . . . . . . . . . . . . . . . .187
+Krysia Canvin, Kathryn Berzins & John Baker (UK)
+20
+The influence of staff attitudes towards coercion on decisions to apply
+coercive measures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .189
+Simone Agnes Efkemann, Jakov Gather & Georg Juckel (Germany)
+Nursing care quality and chemical restraints: an evaluation tool . . . . . . . . . . . . . . . . .191
+Catherine Hupé, Caroline Larue & Damien Contandriopoulos (Canada)
+Expanding treatment possibilities – development of the Academic High
+Intensive Care model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .193
+Paul Doedens (Netherlands)
+The Restraint Reduction Network: Mandatory standards for training in
+using restraint, focusing on reduction, prevention, and safe management . . . . .195
+Sarah Leitch & Kevin McKenna (UK)
+Music in seclusion rooms – impact of a music listening device on
+patients’ subjective experience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .197
+Angelika Güsewell, Gilles Bangerter, Alexia Stantzos, Emilie Bovet, Cédric Bornand &
+Matthieu Thomas (Switzerland)
+Perceived quality of care on wards for High and Intensive Care in the
+Netherlands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .199
+Laura van Melle, Yolande Voskes, Sylvia Gerritsen, Lieke Zomer, Yolande Nijssen, Niels
+Mulder & Guy Widdershoven (Netherlands)
+Validation of the Active Recovery Triad (ART) monitor; a model fidelity
+scale for long term mental health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .201
+Lieke Zomer, Yolande Voskes, Lisette van der Meer, Jaap van Weeghel & Guy
+Widdershoven (Netherlands)
+How do service users evaluate treatment pressures in comparison to
+formal coercion? Preliminary results of a qualitative empirical study . . . . . . . . . . . .203
+Jakov Gather, Sarah Potthoff, Anna Werning, Georg Juckel, Jochen Vollmann & Matthe
+Scholten (Germany)
+MAVAS-R Factor Loading: Medical Staff Responses on Adult and
+Pediatric Inpatient Hospital Units . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .205
+Della Derscheid, Sabine Hahn & Joy Duxbury (USA)
+Perspectives of Consumers and Staff one year after the implementation
+of Safewards in inpatient mental health wards in Victoria Australia . . . . . . . . . . . . .207
+Bridget Hamilton & Justine Fletcher (Australia)
+21
+Understanding variation in implementation of Safewards in 18
+inpatient mental health wards in Victoria Australia using the
+Consolidated Framework for Implementation Research . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .209
+Justine Fletcher & Bridget Hamilton (Australia)
+Reflection on best practice in physical intervention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .211
+Pål-Erik Ruud (Norway)
+Using the humanities to enhance our understanding of aggression
+and/or violence within mental health practice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .212
+Kevin McKenna, Ian Needham & Lois Moylan (Irland)
+Development and testing of the intervention “Guided Clinical Decisionmaking
+for Mechanical Restraints Use” (GCDMR) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .214
+Jonas Harder Kerring, Lea Deichmann Nielsen, Søren Fryd Birkeland, Søren Bie Bogh
+& Frederik Alkier Gildberg (Denmark)
+Developing targeted MR-CRAS intervention to reduce the duration of
+mechanical restraint among forensic psychiatric inpatients . . . . . . . . . . . . . . . . . . . . . . . . .216
+Chalotte Fagan (Denmark)
+20-year documentary analysis of trends in the use of coercive
+measures in Finnish psychiatric hospitals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .218
+Tella Lantta, Maritta Välimäki, Min Yang, Tero Vahlberg, Virve Pekurinen, Minna Anttila
+& Sharon-Lise Normand (Finland)
+The Safe Technique of Physical Restraint in an Ambulance . . . . . . . . . . . . . . . . . . . . . . . . . .220
+Jaroslav Pekara & David Peran (Czech Republic)
+Safewards – Improving the Relations and Collaboration leads to a
+Safe and Caring Environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+Dorte Graulund Olsen & Sabina Renee Beldring (Denmark)
+Restraint minimisation in mental health care: legitimate or illegitimate
+force? An ethnographic study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+Mick McKeown, Gill Thomson, Amy Scholes, Fiona Jones, Soo Downe, Owen Price,
+John Baker, Paul Greenwood, Richard Whittington, Joy Duxbury (UK)
+22
+Chapter 7 – Neurobiological approaches and
+pharmacological therapies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+The pharmacological management of agitated and aggressive
+behaviour: a systematic review and meta-analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .226
+Maarten Bak, Irene Weltens, Chris Bervoets, Jurgen de Fruyt, Marjan Drukker & Geert
+Dom (Netherlands)
+Current understanding of the neurobiology of agitation – practical
+implications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .233
+Christopher Miller, Vedrana Hodzic & Eric Weintraub (USA)
+Impulsive-antisocial violent offenders differ from impulsive-antisocial
+non-offending individuals in neural connectivity during reward expectation . . 238
+Robbert-Jan Verkes, Dirk Geurt, Erik Bulten & Roshan Cools (Netherlands)
+Chapter 8 – Psychological approaches & interventions. . . . . . . . . 240
+The Unforeseen - proaction and reaction to inpatient violence. A
+grounded theory study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .240
+Snorrason Jón & Gudrun Ulfhildur Grimsdottir (Iceland)
+A case study including risk management by use of Early Recognition
+Method (ERM) and education of staff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .242
+Magne Ultvedt, Audun Sundby, May Hege Kristoffersen & Johnny Waerp (Norway)
+An Integrated Intervention for Forensic Settings: Addressing the needs
+of a heterogeneous population . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .247
+Rebecca Gillham, Claire Gatley, Grace Crawford, Gavin Evans, Virginia Kelland, Karen
+Orpwood, James Van-Lint, Sara Asensio & Christopher Harrop (UK)
+PreARMEd: Pre-incident Anticipatory Resilience and Mindfulness Education . .253
+Kerry McCubbin, Helen Clothier, Andrew Curran, Nadia Burman, David Britton, Steve
+Noone & Keith Reid (UK)
+Treatment of Aggression in People with Intellectual Disabilities in
+Secure Hospital: A Randomised Controlled Feasibility Study of
+Interpersonal Art Psychotherapy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .258
+Simon Hackett (UK)
+23
+Effectiveness of Behavior Emergency Response Team Recommended
+Interventions for Inpatient Assault and Physical Aggression . . . . . . . . . . . . . . . . . . . . . . . . .261
+Della Derscheid & Judy Arnetz (USA):
+Measuring de-escalation by using the De-escalating Aggressive
+Behaviour Scale (DABS) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .263
+Johannes Nau, Gernot Walter & Nico Oud (Germany)
+Implementation of the revised action plan to reduce forced fixation at
+the psychiatric center Copenhagen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .267
+Kristina Schwartz (Denmark)
+Chapter 9 – Service users & family perspectives. . . . . . . . . . . . . . . . . . . . . 270
+Patients experience of coercion in adult and adolescent mental health
+care - A new measurement scale and a model of experienced coercion . . . . . . . .270
+Olav Nyttingnes (Norway)
+A narrative study: the experiences of mental health service users . . . . . . . . . . . . . . . .276
+Pauline Cusack (UK)
+Chapter 10 – Race, gender, cross-cultural & ethnicity
+perspectives. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277
+Predicting recidivism and death in female forensic psychiatric patients.
+A multicentre follow-up study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .277
+Vivienne de Vogel (Netherlands)
+Nursing staff talk about violence - a matter of care and equality in
+forensic psychiatric care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .279
+Esa Kumpula (Sweden)
+Acute mental health readmissions in a rural multicultural community
+with violence exposed refugees and migrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .281
+Subhash Das, Vivek Phutane, Saji Joseph, Raju Lakshmana & Rafiqul Islam (Australia)
+24
+Chapter 11 – Ethical, human rights and legal perspectives. . . 283
+Forensic detention and the principle of proportionality – clinical
+impacts of legal change in Germany . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .283
+Herbert Steinboeck (Germany)
+Social inclusion and prevention of violence. Patients’, staff members’
+and ward managers’ descriptions of meetings in psychiatric inpatient
+care in Sweden . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .285
+Veikko Pelto-Piri & Lars Kjellin (Sweden)
+Needs and dilemmas of caretakers who have been victimized by
+violence in psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .287
+Joke Harte, Ingrid van Houwelingen & Mirjam van Leeuwen (Netherlands)
+A conceptual framework for evaluating informal coercion and the use
+of treatment pressures in psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .291
+Matthé Scholten, Jakov Gather & Jochen Vollmann (Germany)
+Just Culture in mental health care: creating a learning environment
+after severe incidents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .293
+Sven Rooijakkers, Laura Hartman, Iris Wallenburg, Eva van Baarle, Yolande Voskes,
+Roland Bal & Guy Widdershoven (Netherlands)
+Exploring the Case for Truth and Reconciliation in Psychiatry . . . . . . . . . . . . . . . . . . . . . . .295
+Mick McKeown, Helen Spandler (UK)
+Chapter 12 – Sexual offending violence. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 297
+Addressing Patient-to-Nurse Sexual Harassment in Nursing:
+Educational Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .297
+Erin Micale (USA)
+Autism Spectrum Disorder and Sexual Offending . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .303
+Julian Gojer, Monik Kalia, Caroline Kerjikian, Julie Magritte, Sanjeevan Athavan, Iva
+Giljanovic & Jane Koh
+25
+Chapter 13 – Specific populations: forensics. . . . . . . . . . . . . . . . . . . . . . . . . . . . 309
+Keeping in contact voluntarily: A study on service-users’ experiences
+and criminal recidivism in forensic psychiatric care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .309
+Petra Schaftenaar (Netherlands)
+Effectiveness of the Galya Individualized Competency Restoration
+Program (Galya-ICRP) on Competency to Stand Trial in Forensic
+Psychiatric Patients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .311
+Utaya Nakcharoen & Phawinee Butsaen (Thailand)
+Trauma exposure in a high secure male forensic population . . . . . . . . . . . . . . . . . . . . . . .313
+Grainne McKenna, Neil Jackson & Claire Browne (UK)
+Nighttime treatment in forensic psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .315
+Marike Lancel, Jorien Engberts, Gretha Boersma & Maaike Van Veen (Netherlands)
+Poor sleep is associated with aggression in forensic psychiatric patients . . . . . . . .317
+Maaike Van Veen, Julie Karsten, Robert-Jan Verkes & Marike Lancel (Netherlands)
+Variation of Forensic Psychiatric Systems across the EU: Concepts,
+Legal Frameworks and Practices in European Union Member States . . . . . . . . . . . . . 319
+Hans Joachim Salize, Harald Dressing, Barbara Horten & Andrea Giersiefen (Germany)
+A network of forensic psychiatric services in an urban setting in the
+Netherlands to manage violence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .321
+Udo Nabitz, Melina Kappeyne van de Copello-Rakic, Jeroen Zoeteman, Thoma
+Marquant, Valentijn Hollander & Rogier Van Bemmelen (Netherlands)
+Forensic High and Intensive Care: the validity of the FHIC monitor . . . . . . . . . . . . . . .323
+Sylvia Gerritsen, Yolande Voskes, Petra de Leede, Savannah van Bodegom, Renske de
+Zwart, Laura van Melle, Sven Rooijakkers & Guy Widdershoven (Netherlands)
+Neurodevelopmental disorders and responsivity to treatment in
+forensic outpatient psychiatry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .325
+Rosalind van der Lem & Nathalie Kruit (Netherlands)
+Forensic Aspects of Sleep . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .327
+Jon Carey, Anne Aboaja & Rachel Steele (UK)
+(Authors: Dr Jon Carey; Dr Anne Aboaja; Dr Lindsay Dewa)
+The Gray Zone in Forensic Mental Health Practices: A Delphi Study
+and a National Survey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .331
+Akihiro Shiina (Japan)
+26
+The influence of optimal arousal and hostile attribution bias on the
+effectiveness of Virtual Reality Aggression Prevention Training in
+forensic psychiatric patients . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .334
+Linda Jansen & Sarah Van IJzendoorn (Netherlands)
+Implementing aggression registration in forensic psychiatric care . . . . . . . . . . . . . . . .336
+Leen Cappon, Manon Heyndrickx, Frank Van Steenkiste & Femke Hanssens (Belgium)
+Characteristics of aggressive behavior and impact on ward climate at
+a high risk forensic unit for females . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .337
+Manon Heyndrickx, Leen Cappon, Frank Van Steenkiste & Femke Hanssens (Belgium)
+Chapter 14 – Specific populations: intellectually
+disabled / learning disabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338
+The relationship of behavioral symptoms in autism spectrum disorders
+with types of parental education in the family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .338
+Severin Grechany & Elena Lyakso (Russia)
+Causes of challenging behaviour: attributions and attributional styles
+of support staff . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .340
+Petri Embregts, Kim van den Bogaard & Henk Nijman (Netherlands)
+Causes of aggressive behavior: attributions of people with a mild
+intellectual disability in a forensic psychiatric setting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .342
+Kim van den Bogaard & Petri Embergts (Netherlands)
+Victimisation and Criminality of Individuals with Intellectual Disability:
+A Qualitative Research on a Dutch Perspective . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .344
+Amber Averens, Ann-Sophie Haspel & Elizabeth Wiese-Batista Pinto (Netherlands)
+Adaptive functioning and risk management in (forensic) patients with
+mild intellectual disabilities or borderline intellectual functioning . . . . . . . . . . . . . . . . .346
+Henk Nijman, Diana Polhuis & Femke Jonker (Netherlands)
+Clinical characteristics of individuals with intellectual disability in
+forensic psychiatric services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .348
+Hanna Edberg, Tatja Hirvikoski, Qi Chen, Henrik Larsson & Peter Andiné (Sweden)
+27
+Chapter 15 – Specific populations: elderly / dementia. . . . . . . . . . 350
+Cannabinoids for the Treatment of Neuropsychiatric Symptoms of
+Dementia: A Systematic Review & Meta-Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .350
+Anees Bahji, Arthi Chinna Meyyappan & Emily Hawken (Canada):
+Chapter 16 – Training and education of
+(interdisciplinary) staff. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 352
+Safer Environments via Collaborative Unified Response to Emergencies
+(SECURE Training for Clinicians and Safety Officers) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .352
+Diane Allen, Frank Harris & Lisa Mistler (USA)
+Evaluating the effectiveness of a designed patient aggression
+management programme for nurses in Singapore . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .354
+Kalaivanan Dakshnamoorthy, Ziqiang Li, Bee Cheng Ong, Kee Huang Ng, Hao Yin,
+Yanan Hu, Warric Ng & Yujun Lai (Singapore)
+The effects of training interventions on enhancing the competence of
+nursing staff in managing challenging patient behavior . . . . . . . . . . . . . . . . . . . . . . . . . . . . .356
+Sirpa Tölli, Pirjo Partanen, Raija Kontio & Arja Häggman-Laitila (Finland)
+(Authors: Sirpa Tölli, Raija Kontio, Pirjo Partanen, Arja Häggman-Laitila)
+Organizational measures against violence: The aftermath of the death
+of an employee . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .361
+Kurt Elvegård (Norway)
+Empowerment and increased recognition of “feminized” skills in
+community mental health services following competence-development . . . . . . . . .367
+Erlend Rinke Maagerø-Bangstad (Norway)
+MAP (Management of aggression problems) - a step towards a
+Norwegian standard regarding staff training programs . . . . . . . . . . . . . . . . . . . . . . . . . . . . .369
+Thomas Nag & Gunnar Eidhammer (Norway)
+Evaluation of staff training in de-escalation - a cluster randomized
+controlled trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .370
+Thomas Nag & Bente Sundby (Norway)
+Can health professionals be a source of aggression? Reflection about
+self regulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .372
+Lone Viste & Kjell Kjaervik (Norway)
+28
+Restraint position - which one is the best? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .374
+Torill Fotland, Marius Engen, Thor Egil Holtskog & Gunilla Hansen (Norway)
+Safety and security – a training programme for employees working in
+youth residential care in Norway . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .376
+Marte Katrine Weng, Daniel Lund & Robin Karlsen (Norway)
+Education at the point of care: Building facilitation capacity among
+clinical staff and service users . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .377
+Asha Maharaj, Faisal Islam, Katie Hodgson & Oliver Ho (Canada)
+Trauma-Informed De-escalation Education for Safety and Self-
+Protection (TIDES): Building Organization-Wide Safety through
+Interprofessional Training . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .383
+Asha Maharaj, Katie Hodgson, Graham Vardy, Steven Hughes, Emmanuel Bratsalis,
+Anna Palaganas, Stephen Canning, Faisal Islam & Kiran Patel (Canada)
+Safe De-escalation Training: The Concept of Relationships and
+De-escalation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .390
+Lene Lauge Berring, Katrine Brix, Demi Hansen, Rikke Juhl, Trine Marita Bjerre &
+Gitte Laugesen (Denmark)
+Staff perspectives on an extended Safety-Training-Program at the
+ONLY Maximum Security Forensic Hospital in Denmark . . . . . . . . . . . . . . . . . . . . . . . . . . . . .392
+Demi Erik Pihl Hansen & Marianne Friis Lindegaard (Denmark)
+Application of the “Dealing with Violent Situations in Health Care in
+Practice course” in clinical practice . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .394
+Jaroslav Pekara, David Peřan, Tomas Kovrzek (Czech Republic)
+Organization and implementation of Early Recognition Method (ERM)
+as preventive actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .396
+Johnny Waerp, Magne Ultvedt, Audun Sundby & May Kristoffersen (Norway)
+Experiences of a training program for increased safety in youth
+residential care in Norway. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .398
+Ane Slaatto (Norway)
+29
+Chapter 17 – Application of new technology (media –
+social networks – information technology – e-learning
+– virtual environment). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405
+Learning to Engage with Individuals in Distress: Training for Inpatient
+Psychiatric Nurses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .405
+Kathleen Delaney & Jason Earle (USA):
+Virtual Reality Training for Professionals to Support Prevention of
+Patient Aggression in the Workplace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .407
+William Buiter, Anne Bakker, Ragnhild Blok-Bjornsen, Rene Wubs, Cato van Halem &
+Martine van Bennekom (Netherlands)
+Development and Evaluation of the Computer Simulation-based
+Interactive Communication Education (ComEd) Program . . . . . . . . . . . . . . . . . . . . . . . . . . . . .409
+Heeseung Choi, Ujin Lee & Tae Kyun Gwon (Korea)
+Chapter 18 – Other related themes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 411
+Dealing with patient and visitor aggression in healthcare: a workshop
+exploring future responsibilities in leadership . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .411
+Birgit Heckermann, Joanne DeSanto Iennaco, Joy Duxbury, Sanaz Riahi & Sabine Hahn
+(Switzerland)
+Maledictology, swearing, verbal abuse, Theory of Civilisation, Speech
+Act Theory, personal sensitivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .413
+Ian Needham, Lois Moylan & Kevin McKenna (Switzerland)
+Community Treatment Orders for difficult to engage patients with
+psychosis: what does the evidence say? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 415
+Jorun Rugkåsa (Norway)
+Violence Incident Assessment (VIA-Q)- development of an instrument
+to assess violence in psychiatric outpatient settings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .416
+Jenni Konttila (Finland)
+Drug Induced Psychosis-A Complicated Relationship and a Diagnostic
+and Legal Conundrum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .418
+Julian Gojer, Monik Kalia, S. Athavan, C. Kerjikian, J. Magritte, J. Koh, & I. Giljanovic
+(Canada)
+30
+Differences and similarities in attitudes and perceptions of coercion:
+Findings from research in India as compared to the European context . . . . . . . . . .424
+Peter Lepping, Bevinahalli Nanjegowda Raveesh, Tom Palmstierna, Guru S Gowda, Eric
+O Noorthoorn (India)
+How to measure implementation of Safewards in clinical practice . . . . . . . . . . . . . . . .425
+Lene Svendsen, Jacob Hvidhjelm & Jesper Bak (Denmark)
+Understanding Coercion in Indian Mental Health Care: An EViPRG
+Collaborative Initiative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .427
+Raveesh Bevinahalli Nanjegowda, Guru Gowda, Peter Lepping, Eric Noorthoorn & Tom
+palmstierna (India)
+Prevention of both training- and patient-related work injuries. A 12-
+year register study in a forensic psychiatric hospital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .429
+Anu Putkonen (Finland)
+(Anu Putkonen, Satu Kuivalainen, Hannu Kautiainen, Eila Repo-Tiihonen, Jari Tiihonen)
+Chapter 19 – Specific populations: community &
+ambulant care. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 431
+Confused persons in mental health care: experiences of institutional
+cooperation in a ‘safety chamber’ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .431
+Stephan Gemsa, Eddy Adolfsen, Eric Noorthoorn, Henk Nijman & Giel Hutschemaekers
+(Netherlands)
+Conditional authorization: an event sequence study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .433
+Stephan Gemsa, Eric Noorthoorn, Henk Nijman & Giel Hutschemaekers (Netherlands)
